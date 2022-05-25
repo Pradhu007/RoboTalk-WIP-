@@ -10,13 +10,13 @@ Key
 Completed = Y :  Not Completed = N
 
 Features 
-. Name customization Feature - Y
-. Take a webcam screenshot - N
-. Check Weather - N 
-. Screenshot - N
-. Change Wallpaper - N
-. Play Sound - N 
-. View Social Media Notifications  feature - N 
+Name customization Feature - Y
+Take a webcam screenshot - N
+Check Weather - N 
+Screenshot - N
+Change Wallpaper - N
+Play Sound - N 
+View and read Social Media Notifications  - N 
 
 
 
